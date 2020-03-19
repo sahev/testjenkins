@@ -29,7 +29,6 @@ namespace xunitdemo
         [Theory]
         [InlineData(5, 2, 3)]
         [InlineData(10, 5, 5)]
-        [InlineData(8, 1, 0)]
         public void Theory(int expected, int numA, int numB)
         {
             Calculator calc = new Calculator();
