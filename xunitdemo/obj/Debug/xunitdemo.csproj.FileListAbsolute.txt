@@ -1,0 +1,17 @@
+C:\testing\calcframework\xunitdemo\xunitdemo\bin\Debug\xunitdemo.dll
+C:\testing\calcframework\xunitdemo\xunitdemo\bin\Debug\xunitdemo.pdb
+C:\testing\calcframework\xunitdemo\xunitdemo\bin\Debug\xunit.abstractions.dll
+C:\testing\calcframework\xunitdemo\xunitdemo\bin\Debug\xunit.assert.dll
+C:\testing\calcframework\xunitdemo\xunitdemo\bin\Debug\xunit.core.dll
+C:\testing\calcframework\xunitdemo\xunitdemo\bin\Debug\xunit.execution.desktop.dll
+C:\testing\calcframework\xunitdemo\xunitdemo\bin\Debug\xunit.assert.xml
+C:\testing\calcframework\xunitdemo\xunitdemo\bin\Debug\xunit.core.xml
+C:\testing\calcframework\xunitdemo\xunitdemo\bin\Debug\xunit.execution.desktop.xml
+C:\testing\calcframework\xunitdemo\xunitdemo\obj\Debug\xunitdemo.csproj.CoreCompileInputs.cache
+C:\testing\calcframework\xunitdemo\xunitdemo\obj\Debug\xunitdemo.csproj.CopyComplete
+C:\testing\calcframework\xunitdemo\xunitdemo\obj\Debug\xunitdemo.dll
+C:\testing\calcframework\xunitdemo\xunitdemo\obj\Debug\xunitdemo.pdb
+C:\testing\calcframework\xunitdemo\xunitdemo\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\testing\calcframework\xunitdemo\xunitdemo\bin\Debug\xunit.runner.reporters.net452.dll
+C:\testing\calcframework\xunitdemo\xunitdemo\bin\Debug\xunit.runner.utility.net452.dll
+C:\testing\calcframework\xunitdemo\xunitdemo\obj\Debug\xunitdemo.csprojAssemblyReference.cache
